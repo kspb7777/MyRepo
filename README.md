@@ -1,1 +1,1 @@
-# MyRepo
+# My Maven Selenium Project
