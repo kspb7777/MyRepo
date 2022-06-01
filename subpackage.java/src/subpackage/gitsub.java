@@ -6,6 +6,7 @@ public class gitsub {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hi This is Lal");
+		System.out.println("Hi This is Devi");
 
 	}
 
